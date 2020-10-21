@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Cont">0</string>
+    <string name="menu">Contactos</string>
+    <string name="fav">My Pets</string>
+    <string name="acerca">Acerca de</string>
+    <string name="title_bio">Acerca de:</string>
+    <string name="texto_bio">Desarrollado Por: Jose luis</string>
+    <string name="title_contacto">Contacto</string>
+    <string name="name_contact">Nombre</string>
+    <string name="email_contact">E-mail</string>
+    <string name="msj_contact">Mensaje</string>
+    <string name="btn_send">Enviar Comentario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombreMascota">Pep</string>
+</resources>
